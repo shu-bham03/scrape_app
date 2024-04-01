@@ -1,5 +1,7 @@
 import { Inter } from "next/font/google";
 import "./globals.css";
+import { ConfigProvider } from "antd";
+import { AuthProvider } from "@/context/authprovider";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -10,8 +12,23 @@ export const metadata = {
 
 export default function RootLayout({ children }) {
   return (
-    <html lang="en">
-      <body className={inter.className}>{children}</body>
+    <html>
+      <body>
+        <ConfigProvider
+          theme={{
+            token: {
+              colorPrimary: "linear-gradient(135deg, #FF1493, #800080)",
+            },
+            components: {
+              Button: {
+                colorPrimary: "linear-gradient(135deg, #FF1493, #800080)",
+              },
+            },
+          }}
+        >
+          <AuthProvider>{children}</AuthProvider>
+        </ConfigProvider>
+      </body>
     </html>
   );
 }

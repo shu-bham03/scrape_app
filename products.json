@@ -1,0 +1,392 @@
+[
+    {
+        "Name": "Diamante Net",
+        "Price": "Android",
+        "ImageURL": "https://ph-files.imgix.net/84d979a7-5976-4190-9db5-4dcc9b69c86a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=crop"
+    },
+    {
+        "Name": "ClearVPN",
+        "Price": "Bootstrapped",
+        "ImageURL": "https://ph-files.imgix.net/3da1ab95-f8e2-4409-8acc-1497a86dc537.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=crop"
+    },
+    {
+        "Name": "RAFA",
+        "Price": "Fintech",
+        "ImageURL": "https://ph-files.imgix.net/74b327b7-3040-41b3-b564-79d2026bfe62.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=crop"
+    },
+    {
+        "Name": "Flat Icons API",
+        "Price": "Bootstrapped",
+        "ImageURL": "https://ph-files.imgix.net/5d8a5354-bfbb-41b5-aeaf-ead7cf13a11a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=crop"
+    },
+    {
+        "Name": "Delfiny AI",
+        "Price": "Bootstrapped",
+        "ImageURL": "https://ph-files.imgix.net/ebb173ed-a4f0-422d-bb8a-6fe62e75a1d5.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=crop"
+    },
+    {
+        "Name": "Content Creator APIs by Nexa AI",
+        "Price": "Artificial Intelligence",
+        "ImageURL": "https://ph-files.imgix.net/c65be698-b124-4a93-8b18-59f94b29a7ce.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=crop"
+    },
+    {
+        "Name": "FreeTTS",
+        "Price": "Bootstrapped",
+        "ImageURL": "https://ph-files.imgix.net/d72dcb9b-313c-43d7-a2e2-2b86033ccf36.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=crop"
+    },
+    {
+        "Name": "Retexts",
+        "Price": "Marketing",
+        "ImageURL": "https://ph-files.imgix.net/2e81d017-6b50-41c5-a2ba-b2e764eff9b6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=crop"
+    },
+    {
+        "Name": "Automated Sprint Reports for Jira",
+        "Price": "SaaS",
+        "ImageURL": "https://ph-files.imgix.net/a6f0bcba-f80f-4cb7-876f-5568cc7e7856.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=crop"
+    },
+    {
+        "Name": "Storytale 3",
+        "Price": "Bootstrapped",
+        "ImageURL": "https://ph-files.imgix.net/2f39122d-8385-4c35-977b-1214520d8199.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=crop"
+    },
+    {
+        "Name": "Redesign With AI",
+        "Price": "Bootstrapped",
+        "ImageURL": "https://ph-files.imgix.net/634cf8eb-4566-4860-abc0-1baad8c5e84f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=crop"
+    },
+    {
+        "Name": "docTI Custom Document Processing",
+        "Price": "Api",
+        "ImageURL": "https://ph-files.imgix.net/9c10c1cc-acd9-466d-8165-1c9ed60fea50.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=crop"
+    },
+    {
+        "Name": "Ribbon",
+        "Price": "Hiring",
+        "ImageURL": "https://ph-files.imgix.net/6c93075a-2ab9-46cd-a10d-13ed4f8a9f4b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=crop"
+    },
+    {
+        "Name": "Sendspark Dynamic Videos",
+        "Price": "Sales",
+        "ImageURL": "https://ph-files.imgix.net/762db836-0cc5-451d-9cae-1a7e60fd8182.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=crop"
+    },
+    {
+        "Name": "DBRX",
+        "Price": "Open Source",
+        "ImageURL": "https://ph-files.imgix.net/30dbbe9f-0f9e-4b75-8ffb-3e96b1750e4f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=crop"
+    },
+    {
+        "Name": "trimmr.ai",
+        "Price": "Bootstrapped",
+        "ImageURL": "https://ph-files.imgix.net/6b56c407-df6c-4de6-99c0-b8a2fc5ddf8b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=crop"
+    },
+    {
+        "Name": "Bezi AI",
+        "Price": "Design Tools",
+        "ImageURL": "https://ph-files.imgix.net/e9bfe399-c17f-4727-8fb9-c437bec0b430.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=crop"
+    },
+    {
+        "Name": "Scribe",
+        "Price": "Email",
+        "ImageURL": "https://ph-files.imgix.net/1e95e392-ee2e-41cf-abb0-bcf0c5708ca3.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=crop"
+    },
+    {
+        "Name": "Serverless PostgreSQL Platform by Xata",
+        "Price": "Developer Tools",
+        "ImageURL": "https://ph-files.imgix.net/0b778429-ae5d-44bb-9ed6-2b8bae2db130.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=crop"
+    },
+    {
+        "Name": "Greater Paper",
+        "Price": "Productivity",
+        "ImageURL": "https://ph-files.imgix.net/ee0b94a8-0d8c-404f-8107-75ff3c609d38.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=crop"
+    },
+    {
+        "Name": "Content Score by Quick Creator",
+        "Price": "Productivity",
+        "ImageURL": "https://ph-files.imgix.net/b4792b50-af56-4add-a87f-c671f6e343e0.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=crop"
+    },
+    {
+        "Name": "Overview",
+        "Price": "Productivity",
+        "ImageURL": "https://ph-files.imgix.net/b25855c8-15db-411c-96d0-6ff2f5e9d00b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=crop"
+    },
+    {
+        "Name": "Repuxation",
+        "Price": "Solo maker",
+        "ImageURL": "https://ph-files.imgix.net/d1c8b55a-89d7-48ac-b1a7-51d6d1e25948.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=crop"
+    },
+    {
+        "Name": "Translucent Spatial Web Apps",
+        "Price": "Solo maker",
+        "ImageURL": "https://ph-files.imgix.net/b8d31d62-0249-494f-9c56-f0dc158a1354.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=crop"
+    },
+    {
+        "Name": "Feeturn",
+        "Price": "Crypto",
+        "ImageURL": "https://ph-files.imgix.net/1bd7ad99-bdf9-4be4-b572-cbdb7d1eda91.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=crop"
+    },
+    {
+        "Name": "Curator Tearsheets App",
+        "Price": "Solo maker",
+        "ImageURL": "https://ph-files.imgix.net/5d2e2be1-5fc8-459e-b16e-92baa9b464a0.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=crop"
+    },
+    {
+        "Name": "Flowfy",
+        "Price": "Solo maker",
+        "ImageURL": "https://ph-files.imgix.net/1a7ab4a0-8655-42c7-9a56-d9c8df8d9dcc.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=crop"
+    },
+    {
+        "Name": "Stacked Marketer",
+        "Price": "Newsletters",
+        "ImageURL": "https://ph-files.imgix.net/4b4bd6c4-faee-4b9a-b555-8016d1c4d51d.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=crop"
+    },
+    {
+        "Name": "LeapLife",
+        "Price": "Solo maker",
+        "ImageURL": "https://ph-files.imgix.net/d4712b2c-b2b8-47c7-9d76-e2b591640ec0.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=crop"
+    },
+    {
+        "Name": "SimpleLoom",
+        "Price": "Solo maker",
+        "ImageURL": "https://ph-files.imgix.net/3d4d3594-6d24-4f4d-850f-b5956fe81497.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=crop"
+    },
+    {
+        "Name": "Textualyze",
+        "Price": "Bootstrapped",
+        "ImageURL": "https://ph-files.imgix.net/ad12e752-be35-4be9-bd73-99b64a19aac8.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=crop"
+    },
+    {
+        "Name": "NOT TO DO app",
+        "Price": "Bootstrapped",
+        "ImageURL": "https://ph-files.imgix.net/7f101639-6e15-4b06-9aa3-52b64883bf34.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=crop"
+    },
+    {
+        "Name": "OmniGPT",
+        "Price": "Productivity",
+        "ImageURL": "https://ph-files.imgix.net/b609786c-6cac-433a-b2eb-e98390ee1c81.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=crop"
+    },
+    {
+        "Name": "90 Days of Anything",
+        "Price": "Solo maker",
+        "ImageURL": "https://ph-files.imgix.net/d31c0215-64c0-49d0-89e1-0807f32ee75d.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=crop"
+    },
+    {
+        "Name": "Evelyn Smart Tutor",
+        "Price": "Bootstrapped",
+        "ImageURL": "https://ph-files.imgix.net/87d95782-c761-4593-852b-50f713b85055.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=crop"
+    },
+    {
+        "Name": "Stress Relief",
+        "Price": "Solo maker",
+        "ImageURL": "https://ph-files.imgix.net/74b670ad-4699-494f-8dd3-9a909f2e0211.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=crop"
+    },
+    {
+        "Name": "scale-KIT",
+        "Price": "Solo maker",
+        "ImageURL": "https://ph-files.imgix.net/7d52ad6a-1dcc-47a4-a0ac-e4ec62412dcf.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=crop"
+    },
+    {
+        "Name": "GitGud",
+        "Price": "Developer Tools",
+        "ImageURL": "https://ph-files.imgix.net/9d07842b-1e74-410e-9d4d-968593dd8e8b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=crop"
+    },
+    {
+        "Name": "The Simplest Guide to Learning UX Design",
+        "Price": "Solo maker",
+        "ImageURL": "https://ph-files.imgix.net/8f7e2634-49db-4dc3-bec2-fb5a7c28432b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=crop"
+    },
+    {
+        "Name": "Outreach Hippo",
+        "Price": "Solo maker",
+        "ImageURL": "https://ph-files.imgix.net/4f5ff2f2-d0fa-4c3a-96c9-0862f964c19c.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=crop"
+    },
+    {
+        "Name": "Starlo",
+        "Price": "Bootstrapped",
+        "ImageURL": "https://ph-files.imgix.net/33894b13-402e-4137-bfef-5a7a06ddae62.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=crop"
+    },
+    {
+        "Name": "AI Prompt Template Builder",
+        "Price": "Browser Extensions",
+        "ImageURL": "https://ph-files.imgix.net/cda7100b-6cab-4923-a78d-04ad76bd3dcc.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=crop"
+    },
+    {
+        "Name": "Ployer",
+        "Price": "Solo maker",
+        "ImageURL": "https://ph-files.imgix.net/b44b0ac5-5477-47a9-b0e4-90770e22f7a4.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=crop"
+    },
+    {
+        "Name": "Passkeys by Pangea",
+        "Price": "Api",
+        "ImageURL": "https://ph-files.imgix.net/1f1b5a9c-da96-4ddf-8e8b-f463ad02faa3.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=crop"
+    },
+    {
+        "Name": "Chroma Key By FlexClip",
+        "Price": "Design Tools",
+        "ImageURL": "https://ph-files.imgix.net/7e707b62-d60f-4f44-b93c-8b2ede16a88f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=crop"
+    },
+    {
+        "Name": "RenAI",
+        "Price": "Solo maker",
+        "ImageURL": "https://ph-files.imgix.net/e2a4cb23-3990-4380-8b30-076f4be76a0a.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=crop"
+    },
+    {
+        "Name": "Flex Engine",
+        "Price": "Api",
+        "ImageURL": "https://ph-files.imgix.net/18c6a31d-18c3-48fc-9033-e5f1cee84bcd.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=crop"
+    },
+    {
+        "Name": "CrispTweets",
+        "Price": "Solo maker",
+        "ImageURL": "https://ph-files.imgix.net/617a7cf8-dc90-4957-b27a-869978b9b495.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=crop"
+    },
+    {
+        "Name": "Eatagram",
+        "Price": "Bootstrapped",
+        "ImageURL": "https://ph-files.imgix.net/048fbeb3-6eff-4460-95be-dbc930803e06.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=crop"
+    },
+    {
+        "Name": "PackMate",
+        "Price": "Solo maker",
+        "ImageURL": "https://ph-files.imgix.net/84e88c6d-5893-4701-a2c1-367a1edc79c2.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=crop"
+    },
+    {
+        "Name": "Flyleaf for iOS and macOS",
+        "Price": "Solo maker",
+        "ImageURL": "https://ph-files.imgix.net/b1ca9b20-b569-4158-83cc-28e4abfacfe5.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=crop"
+    },
+    {
+        "Name": "Swarms Cloud",
+        "Price": "Api",
+        "ImageURL": "https://ph-files.imgix.net/9cc196d2-89fa-4a1f-9154-fb637b4830d5.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=crop"
+    },
+    {
+        "Name": "Student Planner",
+        "Price": "Solo maker",
+        "ImageURL": "https://ph-files.imgix.net/8de9f12d-8ad9-4414-8d40-06fe432a4923.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=crop"
+    },
+    {
+        "Name": "Planck Network",
+        "Price": "Bootstrapped",
+        "ImageURL": "https://ph-files.imgix.net/119bcc70-c495-476b-8769-497f38878cfd.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=crop"
+    },
+    {
+        "Name": "IOTask Multipurpose UI Kit for SaaS Apps",
+        "Price": "Solo maker",
+        "ImageURL": "https://ph-files.imgix.net/c9507606-7434-445b-ba82-c45de4f70c31.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=crop"
+    },
+    {
+        "Name": "Volte X",
+        "Price": "Bootstrapped",
+        "ImageURL": "https://ph-files.imgix.net/675f0aec-df09-48e8-b996-9139bcfc42cd.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=crop"
+    },
+    {
+        "Name": "Get PrimeAI",
+        "Price": "Solo maker",
+        "ImageURL": "https://ph-files.imgix.net/4a4acf04-2995-4134-8222-59854dac07c1.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=crop"
+    },
+    {
+        "Name": "US Zip Code API",
+        "Price": "Solo maker",
+        "ImageURL": "https://ph-files.imgix.net/dfa168f8-c2b6-4639-9dab-00dc0d6b66fc.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=crop"
+    },
+    {
+        "Name": "Buzz Spot",
+        "Price": "Solo maker",
+        "ImageURL": "https://ph-files.imgix.net/21447671-e713-483f-8ed4-3bdafb4e5727.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=crop"
+    },
+    {
+        "Name": "Demuzo",
+        "Price": "Music",
+        "ImageURL": "https://ph-files.imgix.net/f3845655-d421-4298-afa4-ee67a219a14c.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=crop"
+    },
+    {
+        "Name": "Sway Social",
+        "Price": "Solo maker",
+        "ImageURL": "https://ph-files.imgix.net/64e8a938-1ac1-4150-97e8-f98dea8b7ef8.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=crop"
+    },
+    {
+        "Name": "AutoApply",
+        "Price": "Solo maker",
+        "ImageURL": "https://ph-files.imgix.net/0b45ba45-2ddf-4272-a0c1-5756926f0107.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=crop"
+    },
+    {
+        "Name": "Zoho Creator Menu Search",
+        "Price": "Solo maker",
+        "ImageURL": "https://ph-files.imgix.net/ae59e773-186b-437c-993c-d0ed919e0cb2.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=crop"
+    },
+    {
+        "Name": "Copilot App Store",
+        "Price": "Productivity",
+        "ImageURL": "https://ph-files.imgix.net/25f735b2-537d-41ba-bcc1-46f1badccde3.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=crop"
+    },
+    {
+        "Name": "Blissful Backdrop",
+        "Price": "Solo maker",
+        "ImageURL": "https://ph-files.imgix.net/4b706437-c386-48d7-898c-a69c64a0029c.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=crop"
+    },
+    {
+        "Name": "Trainer +",
+        "Price": "Health & Fitness",
+        "ImageURL": "https://ph-files.imgix.net/f583f74f-a16f-465a-a068-51aba22430b5.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=crop"
+    },
+    {
+        "Name": "Tour Stanza",
+        "Price": "Solo maker",
+        "ImageURL": "https://ph-files.imgix.net/c851971c-0063-4355-9c7e-6bd2b79d7cad.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=crop"
+    },
+    {
+        "Name": "Digital OS",
+        "Price": "Solo maker",
+        "ImageURL": "https://ph-files.imgix.net/4534ae8f-0285-43a3-83da-94d19deee0c2.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=crop"
+    },
+    {
+        "Name": "Gasefy",
+        "Price": "Solo maker",
+        "ImageURL": "https://ph-files.imgix.net/b45615fc-25e6-4456-b2f9-fd2cf7b298b5.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=crop"
+    },
+    {
+        "Name": "NA.VI",
+        "Price": "Productivity",
+        "ImageURL": "https://ph-files.imgix.net/52c6d3ac-dd08-4d1c-81f8-8f4694083999.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=crop"
+    },
+    {
+        "Name": "Dynamic Notes",
+        "Price": "Solo maker",
+        "ImageURL": "https://ph-files.imgix.net/e71edf2a-f507-40ad-b116-a899371b8f51.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=crop"
+    },
+    {
+        "Name": "extension-create",
+        "Price": "Solo maker",
+        "ImageURL": "https://ph-files.imgix.net/891f3e9a-261f-4b6b-a569-55398679bf24.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=crop"
+    },
+    {
+        "Name": "OneDayDashboard",
+        "Price": "Solo maker",
+        "ImageURL": "https://ph-files.imgix.net/cc87ea85-b25a-4301-9328-c2726f136f18.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=crop"
+    },
+    {
+        "Name": "30kdesigns",
+        "Price": "Solo maker",
+        "ImageURL": "https://ph-files.imgix.net/f3414626-d882-48ef-8a9d-c6b7e376ee4f.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=crop"
+    },
+    {
+        "Name": "Flexing Finance ",
+        "Price": "Solo maker",
+        "ImageURL": "https://ph-files.imgix.net/57d8d47e-d941-4b90-bc75-67813fa26d36.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=crop"
+    },
+    {
+        "Name": "Auto Localize",
+        "Price": "Solo maker",
+        "ImageURL": "https://ph-files.imgix.net/1fc49906-41a3-4daa-96de-fa9f266feec0.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=crop"
+    },
+    {
+        "Name": "CEQUENS Omnichannel Chat",
+        "Price": "Solo maker",
+        "ImageURL": "https://ph-files.imgix.net/e9be1ced-8898-4446-809f-7c0405459a4b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=crop"
+    },
+    {
+        "Name": "Supportzeal",
+        "Price": "Solo maker",
+        "ImageURL": "https://ph-files.imgix.net/8668616d-edf1-48f1-abab-ddc0acd2d9fb.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=crop"
+    }
+]
